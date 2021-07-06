@@ -2,6 +2,8 @@
 
 #### Created using react-spring
 
+![Animated Search Box](https://media.giphy.com/media/HQbkcqNnDlX31nNZvv/giphy.gif)
+
 # Links
 
 - [View in CodeSandbox](https://codesandbox.io/s/brave-wescoff-696br?file=/src/App.tsx)
