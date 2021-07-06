@@ -1,0 +1,12 @@
+:root {
+  --border-width: 2px;
+  --circle-width: 1rem;
+  --search-width: 10rem;
+}
+
+.one::before,
+.two::before {
+  content: "";
+}
+
+
